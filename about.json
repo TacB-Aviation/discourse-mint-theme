@@ -4,23 +4,23 @@
   "license_url": "https://github.com/discourse/discourse-mint-theme/blob/main/LICENSE",
   "color_schemes": {
     "mint-light": {
-      "primary": "454545",
-      "secondary": "F6FBFC",
-      "tertiary": "4F8A7C",
-      "header_background": "ffffff",
-      "header_primary": "111111",
-      "selected": "e3efec",
-      "hover": "e3efec"
+      "primary": "e6e6ea",
+      "secondary": "1b1b1b",
+      "tertiary": "26bbff",
+      "header_background": "000000",
+      "header_primary": "FFFFFF",
+      "selected": "484e63",
+      "hover": "404044"
     },
     "mint-dark": {
-      "primary": "e0e0e0",
-      "secondary": "2d2d2d",
-      "tertiary": "4F8A7C",
-      "header_background": "202020",
-      "header_primary": "e0e0e0",
-      "highlight": "b2b235",
-      "selected": "1c302b",
-      "hover": "1c302b"
+      "primary": "e6e6ea",
+      "secondary": "1b1b1b",
+      "tertiary": "26bbff",
+      "header_background": "000000",
+      "header_primary": "FFFFFF",
+      "highlight": "f5f500",
+      "selected": "484e63",
+      "hover": "404044"
     }
   },
   "components": [
